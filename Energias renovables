@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Energías Renovables</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Energías Renovables</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
+                <li><a href="#tipos-energias">Tipos de Energías</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio">
+        <h2>Bienvenido a nuestra página sobre energías renovables</h2>
+        <p>¡Descubre todo sobre las energías limpias y sostenibles!</p>
+    </section>
+
+    <section id="sobre-nosotros">
+        <h2>Sobre Nosotros</h2>
+        <p>Somos un equipo comprometido con el medio ambiente y la promoción de energías renovables.</p>
+    </section>
+
+    <section id="tipos-energias">
+        <h2>Tipos de Energías Renovables</h2>
+        <ul>
+            <li>Energía Solar</li>
+            <li>Energía Eólica</li>
+            <li>Energía Hidroeléctrica</li>
+            <li>Energía Geotérmica</li>
+            <li>Energía Mareomotriz</li>
+            <li>Energía de la Biomasa</li>
+        </ul>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>¡Contáctanos para más información!</p>
+        <address>
+            Email: info@energiasrenovables.com<br>
+            Teléfono: 123-456-7890
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Energías Renovables. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
